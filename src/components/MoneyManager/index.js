@@ -127,7 +127,7 @@ class MoneyManager extends Component {
               <input
                 id="amountInput"
                 className="input"
-                type="number"
+                type="text"
                 placeholder="AMOUNT"
               />
               <label className="label" htmlFor="optionId">
